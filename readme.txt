@@ -4,3 +4,5 @@ create a new branch is quick.
 Creating a new branch is quick and simple
 test no fast forward
 I'm changing readme.txt on dev branch
+I have changed the bug.
+>>>>>>> b852705... fix bug 101
